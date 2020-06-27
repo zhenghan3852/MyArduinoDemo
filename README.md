@@ -7,8 +7,8 @@
 :ServoNanoBothSide4.0.ino(240 lines):
 - Control the servo motos on the robot.
 ## 主控代码
-:==TwoSide1.0.ino(1717 lines):
+<center>TwoSide1.0.ino(1717 lines)</center>
 - The main control code of robot.
 - Include stepmotos control, external interrupt and timer interrupt.
 
-By  Zheng:
+<right>By  Zheng</right>
